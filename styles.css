@@ -1,0 +1,129 @@
+    body {
+        background-color: #ffe4c4;
+        color: #0f141e;
+        font-size: 16px;
+        font-weight: normal;
+        font-family: "Playfair Display", serif;
+        }
+    
+    .page {
+        width: auto;
+        padding: 15px;
+        }
+
+    h2, h3, h4 {
+        font-style: italic;
+        margin: 0px;
+        padding: 0px;
+        }
+    
+    a {
+        text-decoration: none;
+        }
+
+    p   { 
+        text-indent: 20px;
+        margin: 0px;
+        margin-bottom: 5px;
+        padding: 0px;
+        }
+
+    .color_LightCyan {
+        background: #E0FFFF;
+        padding: 15px;
+        border-radius: 10px;
+        }
+    
+    .avatar {
+        max-width: 150px;
+        border-radius: 10px;
+        margin-right: 10px;
+        float:left;
+        }
+    
+    h2  {
+        color:#808080;
+        }
+    
+    a:hover {
+        color: #00FF7F;
+        text-decoration: underline;
+        border: 2px;
+        }
+
+    a:hover img {
+        border: 3px solid #00FF7F;
+    }
+
+    .color_PaleTurquoise {
+        background: #AFEEEE;
+        padding: 15px;
+        border-radius: 10px;
+        }
+    
+    .color_PaleTurquoise h3 {
+        color:#0000CD;
+        text-align:center;
+        }
+
+    .color_PaleTurquoise h4 {
+        color:#0000CD;
+        }
+        
+   .picture_book {
+        max-width: 150px;
+        max-height: 230px;
+        border-radius: 5px;
+        margin-right: 10px;
+        float:left;
+        }
+    
+    .Text {
+        min-height: 230px;
+        }
+    
+    .color_Cornsilk {
+        background: #E6E6FA ;
+        padding: 15px;
+        border-radius: 10px;
+        }
+
+    .color_Cornsilk h3 {
+        color:#2F4F4F;
+        text-align:center;
+        }
+    
+    .color_Cornsilk h4 {
+        color:#008080;
+        }
+
+    .color_MediumAquamarine {
+        background: #66CDAA ;
+        padding: 15px;
+        border-radius: 10px;
+        } 
+
+    .color_MediumAquamarine h3 {
+        color:#006400;
+        text-align:center;
+        }
+        
+    .color_MediumAquamarine h4 {
+        color:#006400;
+        }    
+        
+    .Text_snowman {
+        min-height: 200px;
+        }
+
+    .Text_parrot {
+        min-height: 185px;
+        }
+
+    .Text_planet {
+        min-height: 235px;
+        }
+
+    .Text_lake {
+        min-height: 180px;
+        }
